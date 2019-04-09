@@ -1,0 +1,12 @@
+/Users/frederik/daily-coding-problems/Problem1/bin/Debug/netcoreapp3.0/Problem1
+/Users/frederik/daily-coding-problems/Problem1/bin/Debug/netcoreapp3.0/Problem1.deps.json
+/Users/frederik/daily-coding-problems/Problem1/bin/Debug/netcoreapp3.0/Problem1.runtimeconfig.json
+/Users/frederik/daily-coding-problems/Problem1/bin/Debug/netcoreapp3.0/Problem1.runtimeconfig.dev.json
+/Users/frederik/daily-coding-problems/Problem1/bin/Debug/netcoreapp3.0/Problem1.dll
+/Users/frederik/daily-coding-problems/Problem1/bin/Debug/netcoreapp3.0/Problem1.pdb
+/Users/frederik/daily-coding-problems/Problem1/obj/Debug/netcoreapp3.0/Problem1.csprojAssemblyReference.cache
+/Users/frederik/daily-coding-problems/Problem1/obj/Debug/netcoreapp3.0/Problem1.csproj.CoreCompileInputs.cache
+/Users/frederik/daily-coding-problems/Problem1/obj/Debug/netcoreapp3.0/Problem1.AssemblyInfoInputs.cache
+/Users/frederik/daily-coding-problems/Problem1/obj/Debug/netcoreapp3.0/Problem1.AssemblyInfo.cs
+/Users/frederik/daily-coding-problems/Problem1/obj/Debug/netcoreapp3.0/Problem1.dll
+/Users/frederik/daily-coding-problems/Problem1/obj/Debug/netcoreapp3.0/Problem1.pdb
