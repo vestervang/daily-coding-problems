@@ -17,6 +17,19 @@
         <e p="Program.cs" t="Include" />
         <e p="readme.md" t="Include" />
       </e>
+      <e p="Problem2" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.0" t="Include">
+              <e p="Problem2.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Problem2.csproj" t="IncludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="readme.md" t="Include" />
+      </e>
     </e>
     <e p="$PROJECT_DIR$/../Library/Caches/Rider2018.3/extResources" t="IncludeRecursive" />
     <e p="$PROJECT_DIR$/../Library/Caches/Rider2018.3/resharper-host/local/Transient/ReSharperHost/v183/SolutionCaches/_Daily coding problems.846847852.00" t="ExcludeRecursive" />

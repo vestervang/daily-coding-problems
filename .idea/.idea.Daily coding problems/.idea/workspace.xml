@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a9020d92-bf9c-4601-b494-06de1cb98870" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Problem1/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem2/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Daily coding problems/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Daily coding problems/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Daily coding problems/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Daily coding problems/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Daily coding problems.sln" beforeDir="false" afterPath="$PROJECT_DIR$/Daily coding problems.sln" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,11 +20,11 @@
         <state>
           <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
             <file pinned="false" current-in-tab="true">
-              <entry file="file://$PROJECT_DIR$/Problem1/readme.md">
+              <entry file="file://$PROJECT_DIR$/Problem2/readme.md">
                 <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-                  <state split_layout="FIRST">
+                  <state split_layout="SECOND">
                     <first_editor relative-caret-position="90">
-                      <caret line="6" column="35" lean-forward="true" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
+                      <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
                     </first_editor>
                     <second_editor />
                   </state>
@@ -41,25 +44,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Problem1/Program.cs">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Problem2/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="421">
-              <caret line="62" column="35" lean-forward="true" selection-start-line="62" selection-start-column="35" selection-end-line="62" selection-end-column="35" />
+            <state relative-caret-position="300">
+              <caret line="22" column="13" lean-forward="true" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
               <folding>
-                <marker date="1554839755000" expanded="true" signature="6:105" ph="..." />
-                <marker date="1554839755000" expanded="true" signature="164:1890" ph="{...}" />
-                <marker date="1554839755000" expanded="true" signature="184:1888" ph="{...}" />
-                <marker date="1554839755000" expanded="true" signature="230:559" ph="{...}" />
-                <marker date="1554839755000" expanded="true" signature="636:971" ph="{...}" />
-                <marker date="1554839755000" expanded="true" signature="728:933" ph="{...}" />
-                <marker date="1554839755000" expanded="true" signature="848:919" ph="{...}" />
-                <marker date="1554839755000" expanded="true" signature="1046:1882" ph="{...}" />
-                <marker date="1554839755000" expanded="true" signature="1290:1844" ph="{...}" />
-                <marker date="1554839755000" expanded="true" signature="1562:1631" ph="{...}" />
-                <marker date="1554839755000" expanded="true" signature="1666:1737" ph="{...}" />
-                <marker date="1554839755000" expanded="true" signature="1758:1830" ph="{...}" />
+                <marker date="1554915860000" expanded="false" signature="6:66" ph="..." />
+                <marker date="1554915860000" expanded="true" signature="86:878" ph="{...}" />
+                <marker date="1554915860000" expanded="true" signature="106:876" ph="{...}" />
+                <marker date="1554915860000" expanded="true" signature="152:391" ph="{...}" />
+                <marker date="1554915860000" expanded="true" signature="309:381" ph="{...}" />
+                <marker date="1554915860000" expanded="true" signature="470:870" ph="{...}" />
+                <marker date="1554915860000" expanded="true" signature="658:832" ph="{...}" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="539">
+              <caret line="373" column="60" selection-start-line="373" selection-start-column="60" selection-end-line="373" selection-end-column="60" />
             </state>
           </provider>
         </entry>
@@ -71,12 +78,16 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Problem1/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Problem2/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Problem1/readme.md" />
         <option value="$PROJECT_DIR$/Problem1/Program.cs" />
+        <option value="$PROJECT_DIR$/Problem2/readme.md" />
+        <option value="$PROJECT_DIR$/Problem2/Program.cs" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -101,7 +112,7 @@
             <path>
               <item name="Project" type="161ac34:FileSystemExplorerRootNode" />
               <item name="daily-coding-problems" type="34e6ba20:FileSystemExplorerNode" />
-              <item name="Problem1" type="34e6ba20:FileSystemExplorerNode" />
+              <item name="Problem2" type="34e6ba20:FileSystemExplorerNode" />
             </path>
           </expand>
           <select />
@@ -113,6 +124,11 @@
             <path>
               <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
               <item name="Daily coding problems" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Daily coding problems" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Problem2" type="24d0babc:SolutionExplorerModelNode" />
             </path>
           </expand>
           <select />
@@ -141,7 +157,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected=".NET Project.Problem2">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="$PROJECT_DIR$/Problem1/bin/Debug/netcoreapp3.0/Problem1.dll" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -165,6 +181,29 @@
         <option name="Build" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Problem2" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/Problem2/bin/Debug/netcoreapp3.0/Problem2.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Problem2" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Problem2/Problem2.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v3.0" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue=".NET Project.Problem2" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -178,12 +217,13 @@
       <updated>1554837459954</updated>
       <workItem from="1554837461170" duration="152000" />
       <workItem from="1554837694445" duration="162000" />
-      <workItem from="1554837873796" duration="1839000" />
+      <workItem from="1554837873796" duration="2471000" />
+      <workItem from="1554915125038" duration="1373000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2153000" />
+    <option name="totallyTimeSpent" value="4158000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -198,16 +238,15 @@
     <frame x="0" y="23" width="1920" height="1052" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2550586" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25772098" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info anchor="bottom" id="Build" weight="0.32977587" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2796158" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.5741729" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2796158" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.35005337" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -218,6 +257,7 @@
       <window_info anchor="bottom" id="Unit Tests" order="11" />
       <window_info anchor="bottom" id="Terminal" order="12" />
       <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="14" weight="0.32977587" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -242,25 +282,10 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Problem1/readme.md">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="35" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="90">
-            <caret line="6" column="35" lean-forward="true" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Problem1/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="421">
-          <caret line="62" column="35" lean-forward="true" selection-start-line="62" selection-start-column="35" selection-end-line="62" selection-end-column="35" />
+        <state relative-caret-position="709">
+          <caret line="50" selection-start-line="50" selection-end-line="50" />
           <folding>
             <marker date="1554839755000" expanded="true" signature="6:105" ph="..." />
             <marker date="1554839755000" expanded="true" signature="164:1890" ph="{...}" />
@@ -275,6 +300,54 @@
             <marker date="1554839755000" expanded="true" signature="1666:1737" ph="{...}" />
             <marker date="1554839755000" expanded="true" signature="1758:1830" ph="{...}" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problem1/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="90">
+            <caret line="6" column="26" lean-forward="true" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="27" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="35" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problem2/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor relative-caret-position="90">
+            <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problem2/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="22" column="13" lean-forward="true" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+          <folding>
+            <marker date="1554915860000" expanded="false" signature="6:66" ph="..." />
+            <marker date="1554915860000" expanded="true" signature="86:878" ph="{...}" />
+            <marker date="1554915860000" expanded="true" signature="106:876" ph="{...}" />
+            <marker date="1554915860000" expanded="true" signature="152:391" ph="{...}" />
+            <marker date="1554915860000" expanded="true" signature="309:381" ph="{...}" />
+            <marker date="1554915860000" expanded="true" signature="470:870" ph="{...}" />
+            <marker date="1554915860000" expanded="true" signature="658:832" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="539">
+          <caret line="373" column="60" selection-start-line="373" selection-start-column="60" selection-end-line="373" selection-end-column="60" />
         </state>
       </provider>
     </entry>
